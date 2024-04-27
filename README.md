@@ -20,7 +20,6 @@ Este proyecto es un ejemplo práctico de cómo implementar autenticación en una
 Para ejecutar este proyecto localmente, sigue los siguientes pasos:
 
 ```bash
-git clone 
-cd tu-repositorio
+git clone https://github.com/rcarlosjorge/NextAuth-MongoDB-Auth.git
 npm install
 npm run dev
